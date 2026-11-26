@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./banner.svg" width="860" alt="João Pedro Cairone Ribeiro — Desenvolvedor Python e Full Stack" />
+
 <h3>joao@github ~ $ ./contribuicoes.sh</h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Gráfico de contribuições" />
