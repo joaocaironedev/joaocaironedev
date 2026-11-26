@@ -20,7 +20,7 @@ LINHAS = [
     ("Agora", "Analista de E-commerce @ Mei Mei", AZUL),
     ("Foco", "Integrações com marketplaces", AZUL),
     ("Local", "Taquarituba, SP", AZUL),
-    ("Formação", "ADS - UNINTER (2024-2026)", AZUL),
+    ("Formação", "ADS - UNINTER (2024-2027)", AZUL),
     None,
     ("Back", "Python · FastAPI · SQL · n8n", ROXO),
     ("Front", "TypeScript · React · Next.js", ROXO),
