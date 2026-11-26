@@ -1,0 +1,8 @@
+# foto original e intermediarias ficam so no PC
+foto/
+*.jpg
+*.jpeg
+*.png
+__pycache__/
+.venv/
+previa.html
